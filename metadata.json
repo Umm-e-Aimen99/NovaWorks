@@ -1,0 +1,6 @@
+{
+  "name": "PulsePM - AI Project Manager",
+  "description": "Transform unstructured meeting transcripts into verified, role-based project execution plans in seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
